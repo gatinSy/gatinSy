@@ -23,7 +23,7 @@
     <img src="https://img.shields.io/badge/Node.js-98971a?style=for-the-badge&logo=nodedotjs&logoColor=ebdbb2&labelColor=1d2021">
   </a>
 
-  <a href="https://www.rust-lang.org/">
-    <img src="https://img.shields.io/badge/Rust-cc241d?style=for-the-badge&logo=rust&logoColor=ebdbb2&labelColor=1d2021">
+  <a href="https://www.c-language.org/">
+    <img src="https://img.shields.io/badge/C-83a598?style=for-the-badge&logo=c&logoColor=ebdbb2&labelColor=1d2021">
   </a>
 </p>
